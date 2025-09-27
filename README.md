@@ -1,12 +1,30 @@
-# React + Vite
+🎬 Video Editor Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fast, and responsive Video Editor Web Application built with React (Vite), TailwindCSS, and modern frontend tooling.
 
-Currently, two official plugins are available:
+Designed for creators who want an intuitive editing experience directly in the browser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## Expanding the ESLint configuration
+⚡ Easy Integration
+Work smarter, not harder. With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔒 Secure & Trustworthy
+Your data security is our priority. With state-of-the-art encryption and robust privacy controls, your information stays locked up tighter than Fort Knox.
+
+🎨 Clean UI with TailwindCSS
+Minimal, modern, and responsive design for a smooth editing experience.
+
+⚙️ React + Vite
+Blazing fast development setup and hot-reloading for rapid iteration.
+
+🛠️ Tech Stack
+
+React
+
+Vite
+
+TailwindCSS
+
+React-Scroll
+(for smooth navigation)
